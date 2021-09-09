@@ -1,0 +1,5 @@
+data_all[365*i:365*(i+1),:,:].shape
+(342, 175, 150)
+data_year[365*(i-10):365*(i-10+1),:,:].shape
+(365, 175, 150)
+###really strange
